@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = MonoSandbox
+build_property.ProjectDir = C:\Users\spenc\Downloads\Mono-Sandbox-Mod-main\MonoSandbox\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
